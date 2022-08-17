@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe4e245a-e386-4624-99a5-0162b4f949ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/loop-for/AnalisadorCompleto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loop-for/ContagemDePares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loop-for/ContagemRegressiva.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loop-for/DetectorDePalindromo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loop-for/GrupoDaMaioridade.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loop-for/ImparesMultiplosdeTres.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loop-for/MaiorEMenorDaSequencia.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loop-for/NumerosPrimos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loop-for/ProgressaoAritmetica.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loop-for/SomaDosPares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loop-for/Tabuada.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loop-for/AnalisadorCompleto.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop-for/AnalisadorCompleto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loop-for/DetectorDePalindromo.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop-for/DetectorDePalindromo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loop-for/GrupoDaMaioridade.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop-for/GrupoDaMaioridade.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loop-for/MaiorEMenorDaSequencia.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop-for/MaiorEMenorDaSequencia.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loop-for/NumerosPrimos.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop-for/NumerosPrimos.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +42,8 @@
     "last_opened_file_path": "C:/Users/Jerrayne/Desktop/python-mundo2"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.ProgressaoAritmetica">
-    <configuration name="ContagemDePares" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.AnalisadorCompleto">
+    <configuration name="AnalisadorCompleto" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-mundo2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,7 +55,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loop-for/ContagemDePares.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loop-for/AnalisadorCompleto.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -69,7 +64,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ImparesMultiplosdeTres" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="DetectorDePalindromo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-mundo2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,7 +76,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loop-for/ImparesMultiplosdeTres.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loop-for/DetectorDePalindromo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ProgressaoAritmetica" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="GrupoDaMaioridade" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-mundo2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,7 +97,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loop-for/ProgressaoAritmetica.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loop-for/GrupoDaMaioridade.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SomaDosPares" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MaiorEMenorDaSequencia" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-mundo2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,7 +118,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loop-for/SomaDosPares.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loop-for/MaiorEMenorDaSequencia.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Tabuada" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="NumerosPrimos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-mundo2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,7 +139,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loop-for/Tabuada.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loop-for/NumerosPrimos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ProgressaoAritmetica" />
-        <item itemvalue="Python.SomaDosPares" />
-        <item itemvalue="Python.Tabuada" />
-        <item itemvalue="Python.ImparesMultiplosdeTres" />
-        <item itemvalue="Python.ContagemDePares" />
+        <item itemvalue="Python.AnalisadorCompleto" />
+        <item itemvalue="Python.MaiorEMenorDaSequencia" />
+        <item itemvalue="Python.GrupoDaMaioridade" />
+        <item itemvalue="Python.DetectorDePalindromo" />
+        <item itemvalue="Python.NumerosPrimos" />
       </list>
     </recent_temporary>
   </component>
