@@ -8,7 +8,7 @@ Todos os exercícios foram feitos por mim, a medida que apareciam erros eu consu
 
 ### <a href="https://github.com/jerrayner/cursoemvideo-python2/tree/main/loop-for">Exercícios com Loop For</a><br>
 
-### <a href="">Exercícios com While</a><br>
+### <a href="https://github.com/jerrayner/cursoemvideo-python2/tree/main/while">Exercícios com While</a><br>
 
 <br><br>
 # Link do Curso:
