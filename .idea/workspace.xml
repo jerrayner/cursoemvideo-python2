@@ -3,10 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="fe4e245a-e386-4624-99a5-0162b4f949ab" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/while/CalculoFatorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/while/CalculoFatorial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/while/ProgressaoAritmetica.py" beforeDir="false" afterPath="$PROJECT_DIR$/while/ProgressaoAritmetica.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/while/SequenciaDeFibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/while/SequenciaDeFibonacci.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/while/SuperProgressaoAritmetica.py" beforeDir="false" afterPath="$PROJECT_DIR$/while/SuperProgressaoAritmetica.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/while/MaiorMenorValores.py" beforeDir="false" afterPath="$PROJECT_DIR$/while/MaiorMenorValores.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/while/ParOUImpar.py" beforeDir="false" afterPath="$PROJECT_DIR$/while/ParOUImpar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/while/Tabuada.py" beforeDir="false" afterPath="$PROJECT_DIR$/while/Tabuada.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/while/TratandoVariosValores.py" beforeDir="false" afterPath="$PROJECT_DIR$/while/TratandoVariosValores.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/while/VariosNumerosComFlag.py" beforeDir="false" afterPath="$PROJECT_DIR$/while/VariosNumerosComFlag.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,22 +28,22 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2DRIY4Jt4BgR1JKvuYrimpHL7e7" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Jerrayne/Desktop/python-mundo2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Jerrayne/Desktop/python-mundo2&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.SequenciaDeFibonacci">
-    <configuration name="CalculoFatorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="Python.ParOUImpar">
+    <configuration name="MaiorMenorValores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-mundo2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,7 +55,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while/CalculoFatorial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while/MaiorMenorValores.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -63,7 +64,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MenuDeOpcoes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ParOUImpar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-mundo2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,7 +76,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while/MenuDeOpcoes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while/ParOUImpar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ProgressaoAritmetica" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Tabuada" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-mundo2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,7 +97,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while/ProgressaoAritmetica.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while/Tabuada.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SequenciaDeFibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="TratandoVariosValores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-mundo2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,7 +118,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while/SequenciaDeFibonacci.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while/TratandoVariosValores.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SuperProgressaoAritmetica" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="VariosNumerosComFlag" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-mundo2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,7 +139,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while/SuperProgressaoAritmetica.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while/VariosNumerosComFlag.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.SequenciaDeFibonacci" />
-        <item itemvalue="Python.SuperProgressaoAritmetica" />
-        <item itemvalue="Python.ProgressaoAritmetica" />
-        <item itemvalue="Python.CalculoFatorial" />
-        <item itemvalue="Python.MenuDeOpcoes" />
+        <item itemvalue="Python.ParOUImpar" />
+        <item itemvalue="Python.Tabuada" />
+        <item itemvalue="Python.VariosNumerosComFlag" />
+        <item itemvalue="Python.MaiorMenorValores" />
+        <item itemvalue="Python.TratandoVariosValores" />
       </list>
     </recent_temporary>
   </component>
