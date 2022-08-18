@@ -3,11 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="fe4e245a-e386-4624-99a5-0162b4f949ab" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/while/MaiorMenorValores.py" beforeDir="false" afterPath="$PROJECT_DIR$/while/MaiorMenorValores.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/while/ParOUImpar.py" beforeDir="false" afterPath="$PROJECT_DIR$/while/ParOUImpar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/while/Tabuada.py" beforeDir="false" afterPath="$PROJECT_DIR$/while/Tabuada.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/while/TratandoVariosValores.py" beforeDir="false" afterPath="$PROJECT_DIR$/while/TratandoVariosValores.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/while/VariosNumerosComFlag.py" beforeDir="false" afterPath="$PROJECT_DIR$/while/VariosNumerosComFlag.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/while/AnaliseDeDados.py" beforeDir="false" afterPath="$PROJECT_DIR$/while/AnaliseDeDados.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/while/EstatisticasEmProdutos.py" beforeDir="false" afterPath="$PROJECT_DIR$/while/EstatisticasEmProdutos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/while/SimuladorCaixaEletronico.py" beforeDir="false" afterPath="$PROJECT_DIR$/while/SimuladorCaixaEletronico.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +40,8 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Jerrayne/Desktop/python-mundo2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.ParOUImpar">
-    <configuration name="MaiorMenorValores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.SimuladorCaixaEletronico">
+    <configuration name="AnaliseDeDados" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-mundo2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -55,7 +53,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while/MaiorMenorValores.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while/AnaliseDeDados.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EstatisticasEmProdutos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-mundo2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/while" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while/EstatisticasEmProdutos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,6 +104,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="SimuladorCaixaEletronico" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-mundo2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/while" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while/SimuladorCaixaEletronico.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Tabuada" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-mundo2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -98,48 +138,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while/Tabuada.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TratandoVariosValores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-mundo2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/while" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while/TratandoVariosValores.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="VariosNumerosComFlag" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-mundo2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/while" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while/VariosNumerosComFlag.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SimuladorCaixaEletronico" />
+        <item itemvalue="Python.EstatisticasEmProdutos" />
+        <item itemvalue="Python.AnaliseDeDados" />
         <item itemvalue="Python.ParOUImpar" />
         <item itemvalue="Python.Tabuada" />
-        <item itemvalue="Python.VariosNumerosComFlag" />
-        <item itemvalue="Python.MaiorMenorValores" />
-        <item itemvalue="Python.TratandoVariosValores" />
       </list>
     </recent_temporary>
   </component>
